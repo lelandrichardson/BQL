@@ -1,0 +1,7 @@
+
+-- examples from http://tech.pro/blog/1917/a-better-query-language-bql-language-specification
+
+from student
+where status = 'enrolled'
+select id, name, grade
+
