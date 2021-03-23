@@ -3,7 +3,7 @@ BQL: A SQL Superset Language
 
 ### Resources ###
 
-[Motivations Blog Post - Tech.pro](http://tech.pro/blog/1917/a-sql-superset-language-proposal)
+[Motivations Blog Post](http://intelligiblebabble.com/a-better-query-language-bql-language-specification/)
 
 
 ### Key Benefits ###
