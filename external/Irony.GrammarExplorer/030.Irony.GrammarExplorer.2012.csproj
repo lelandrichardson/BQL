@@ -65,7 +65,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FastColoredTextBox">
-      <HintPath>..\Libraries\FastColoredTextBox\FastColoredTextBox.dll</HintPath>
+      <HintPath>..\..\packages\FCTB.2.16.11.0\lib\FastColoredTextBox.dll</HintPath>
     </Reference>
     <Reference Include="Irony, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ca48ace7223ead47, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
